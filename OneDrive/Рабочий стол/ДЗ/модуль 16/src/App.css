@@ -1,0 +1,14 @@
+.container {
+    max-width: 70vw;
+    text-align: center;
+    margin: 0 auto;
+    background: linear-gradient(#4d4ddbad, 50%, #ff94a7);
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(4, 4, 6, 0.3);
+}
+
+h1 {
+    color: white;
+    font-size: xxx-large;
+}

@@ -1,0 +1,26 @@
+form {
+    max-width: 70vw;
+}
+
+input {
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    width: 40vw;
+    margin-right: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bffb3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media(max-width: 450px) {
+    button{
+        padding: 10px 5px;
+    }
+}

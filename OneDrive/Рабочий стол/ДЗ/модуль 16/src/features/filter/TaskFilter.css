@@ -1,0 +1,12 @@
+.container-filter {
+    width: 100%;
+}
+
+.button-filter {
+    margin: 10px;
+    background: none;
+}
+
+.button-filter:focus {
+    text-decoration: underline;
+}

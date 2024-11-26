@@ -1,0 +1,18 @@
+ul {
+    max-width: 52vw;
+    color: white;
+    font-size: 15px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    height: 37px;
+    align-items: center;
+    padding: 10px 0;
+    cursor: pointer;
+}
